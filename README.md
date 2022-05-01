@@ -51,11 +51,3 @@ The PII detection feature can identify, categorize, and redact sensitive informa
 ["The employee's phone number is (555) 555-5555."]
 ```
 
-### 5. Text Analytics for Health
-Text Analytics for health extracts and labels relevant medical information from unstructured texts such as doctor's notes, discharge summaries, clinical documents, and electronic health records.
-
-**Sample Input**
-```
-["Prescribed 100mg ibuprofen, taken twice daily."]
-```
-
