@@ -17,16 +17,7 @@ Linked Entity Recognition
 Healthcare Analysis
 Support Multiple Actions Per Document
 
-
-## 1. Language Detection
-Language detection can detect the language a document is written in, and returns a language code for a wide range of languages, variants, dialects, and some regional/cultural languages.
-
-**Sample Input**
-```
-["Ce document est rédigé en Français."]
-```
-
-## 2. Named Entity Recognition
+## 1. Named Entity Recognition
 The NER feature can identify and categorize entities in unstructured text. For example: people, places, organizations, and quantities.
 
 **Sample Input**
@@ -34,6 +25,15 @@ The NER feature can identify and categorize entities in unstructured text. For e
  ["Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800",
         "La sede principal de Microsoft se encuentra en la ciudad de Redmond, a 21 kilómetros de Seattle."]
 ```
+
+## 2. Language Detection
+Language detection can detect the language a document is written in, and returns a language code for a wide range of languages, variants, dialects, and some regional/cultural languages.
+
+**Sample Input**
+```
+["Ce document est rédigé en Français."]
+```
+
 
 ## 3. Key Phrase Extraction
 Use key phrase extraction to quickly identify the main concepts in text.
