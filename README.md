@@ -1,6 +1,9 @@
 # SystemIntegration-Final-Project
 
-Final project assignment for ITIS 6177 to create an API using Language Service - Entity Recognition(https://azure.microsoft.com/en-us/services/cognitive-services/language-service/)
+Final project assignment for ITIS 6177 to create an API using Language Service - Entity Recognition
+
+(https://azure.microsoft.com/en-us/services/cognitive-services/language-service/)
+
 (https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/named-entity-recognition/overview)
 
 Azure TextAnalytics is a cloud-based service that provides advanced natural language processing over raw text, and includes six main functions:
