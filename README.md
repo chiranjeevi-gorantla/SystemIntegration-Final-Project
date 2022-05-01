@@ -44,7 +44,7 @@ Use key phrase extraction to quickly identify the main concepts in text.
 ```
 
 ## 4. Personally Identifiable Information (PII) detection
-he PII detection feature can identify, categorize, and redact sensitive information in unstructured text. For example: phone numbers, email addresses, and forms of identification.
+The PII detection feature can identify, categorize, and redact sensitive information in unstructured text. For example: phone numbers, email addresses, and forms of identification.
 
 **Sample Input**
 ```
