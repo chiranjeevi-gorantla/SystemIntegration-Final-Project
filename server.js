@@ -18,7 +18,7 @@ const options = {
         email: "chiranjeevigorantla@gmail.com",
       },
     },
-    host: "localhost:3000",
+    host: "http://143.198.132.170:3000",
     basePath: "/",
   },
   apis: ["./server.js"],
